@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {
+	 
+	font-family: 'Open Sans', sans-serif;
+	font-size: 75px;
+	line-height: 1.3333333;
+	margin: 15px; 
+	color: #ffffff;
+	padding: 80px 25px 80px 25px;
+	text-align: center;
+	font-weight: 200;
+	
+}
+
+.navbar-brand h1 {
+	 
+	font-family: 'Open Sans', sans-serif;
+	font-size: 75px;
+	line-height: 1.3333333;
+	margin: 15px; 
+	color: #DF1E24;
+	padding: 80px 25px 80px 25px;
+	text-align: center;
+	font-weight: 200;
+	
+}
+
